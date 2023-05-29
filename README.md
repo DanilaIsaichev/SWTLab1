@@ -18,7 +18,8 @@
 
 #### Отправка запроса с помощью telnet
 
-GET запрос: 
+GET запрос:
+
 ![GET запрос](./screenshots/telnet-get-req.png) 
 
 Ответ на GET запрос:
@@ -30,11 +31,13 @@ POST запрос:
 ![POST запрос](./screenshots/telnet-post-req.png) 
 
 Ответ на POST запрос:
+
 ![Ответ на POST запрос](./screenshots/telnet-post-res.png)  
 
 #### Отправка запроса с помощью cURL
 
 GET запрос:
+
 ![GET запрос](./screenshots/curl-get-req.png) 
 
 Ответ на GET запрос:
@@ -46,7 +49,8 @@ POST запрос:
 ![POST запрос](./screenshots/curl-post-req.png) 
 
 Ответ на POST запрос:
-![Ответ на POST запрос](./screenshots/culr-post-res.png)  
+
+![Ответ на POST запрос](./screenshots/curl-post-res.png)  
 
 ### Создание простого веб-сервера на основе Node.js
 
